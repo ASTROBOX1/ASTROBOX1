@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Sayed</h1>
-<h3 align="center">Data Science & Machine Learning Enthusiast</h3>
-
+<h3 align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Data+Science+Student;Machine+Learning+Engineer;NLP+Enthusiast;Python+Developer" />
+</h3>
 - 🔭 I’m currently working on NTI [final project creativa](github.com/ASTROBOX1/final-project-creativa)
 
 - 🌱 I’m currently learning **Advanced ML, Model Optimization, Feature Engineering**
