@@ -61,7 +61,7 @@
   https://github.com/ASTROBOX1/Diamond-Price-Prediction-ML
 
 - 🔎 Mini RAG System  
-  https://github.com/ASTROBOX1/mini-reg
+  https://github.com/ASTROBOX1/mini-rag
 
 ---
 
