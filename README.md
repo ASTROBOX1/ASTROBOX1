@@ -32,3 +32,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
 </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=ASTROBOX1&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
